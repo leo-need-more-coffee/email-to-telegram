@@ -1,2 +1,2 @@
 # email-to-telegram
-telegram bot for gets email
+Транслятор почты в телеграм(по протоколу imap)
